@@ -20,6 +20,9 @@ html, body {
 }
 
 .main-nav {
+  border-style: solid;
+  border-width: 2px;
+  
   width: 800px;
   margin-left: 200px;
   position: absolute;
