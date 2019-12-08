@@ -81,7 +81,9 @@ a {
 }
 
 .page-nav {
- 
+ position: absolute;
+ margin-left: -200px;
+ margin-top: 50px;
 }
 
   .page-nav ul {
