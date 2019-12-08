@@ -5,8 +5,6 @@ html, body {
   font-family: Open sans, sans-serif
  }
 
- a {color: #6f717d
- }
 .page {
   background-color: white;
 }
@@ -74,6 +72,11 @@ h2 {
   border-bottom: 1px solid #efefef;
 }
 
+a {
+	color:#6f717d;
+	text-decoration: none;
+	
+}
 
 .page-nav {
  
