@@ -5,6 +5,8 @@ html, body {
   font-family: Open sans, sans-serif
  }
 
+ a {color: #6f717d
+ }
 .page {
   background-color: white;
 }
