@@ -103,3 +103,7 @@ a {
       .page-nav ul li a:visited {
         color: #6f717d;
       }
+
+img {
+  margin: 40px;
+}
